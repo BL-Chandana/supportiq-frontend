@@ -1,11 +1,7 @@
-
+import AppRoutes from "./routes/AppRoutes";
 
 function App() {
-  return (
-    <div>
-     <h2> Support Iq</h2>
-    </div>
-  );
+  return <AppRoutes />;
 }
 
 export default App;
